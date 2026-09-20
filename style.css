@@ -87,7 +87,6 @@ body {
   background-color: #5c5c5c;
 }
 
-
 .btn-orange {
   background-color: #ff9f0a;
 }
@@ -98,7 +97,6 @@ body {
   background-color: #ffcd83;
 }
 .btn-del {
-  font-size: 18px;
+  font-size: 38px;
+  padding: 0px 0px 10px 0px;
 }
-
-
